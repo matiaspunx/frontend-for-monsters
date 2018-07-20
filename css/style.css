@@ -30,6 +30,16 @@ header {
   background-color: rgba(49, 49, 49, .3);
 }
 
+.navbar-brand {
+  align-content: center;
+  display: flex;
+}
+.navbar-brand img {
+  height: 30px;
+  margin-right: 10px;
+  width: 30px;
+}
+
 .page-footer,
 .top-nav-collapse {
   background-color: rgb(49, 49, 49)
